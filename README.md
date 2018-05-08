@@ -12,7 +12,7 @@ Scripts
 
 Workflow
 -------
-
+![alt text](https://github.com/rodekruis/osm_rooftypes_sxm/blob/master/St_maarten_workflow.png)
 
 
 
